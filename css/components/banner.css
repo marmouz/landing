@@ -1,0 +1,16 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  height: 250px;
+}
+
+.container {
+  font-size: 2vh;
+  margin: 10px;
+}

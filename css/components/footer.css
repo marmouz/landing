@@ -1,0 +1,24 @@
+footer {
+  font-size: 3vh;
+  padding: 30px;
+  background-color: black;
+  color: grey;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  height: 100px;
+}
+
+footer > p > i {
+  color:red;
+}
+
+footer ul {
+  list-style: none;
+  margin: 0 auto;
+  display: flex;
+}
+footer p {
+
+}
